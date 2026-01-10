@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559712832144798121/1a1e07af11dd4c0886a8b72aed4dd244/artifacts
+end_time: 1768056133333
+entry_point_name: ''
+experiment_id: '559712832144798121'
+lifecycle_stage: active
+run_id: 1a1e07af11dd4c0886a8b72aed4dd244
+run_name: test_resnet18_freeze_True_154158
+run_uuid: 1a1e07af11dd4c0886a8b72aed4dd244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768056118925
+status: 3
+tags: []
+user_id: user
